@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://viqukazsite.pages.dev/sitemap.xml
